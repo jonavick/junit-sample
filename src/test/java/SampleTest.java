@@ -19,6 +19,5 @@ public class SampleTest {
  		int b = 2;
  		assertFalse(a + b == 5);
  		}
- 		
- 		
+ 			
  	}
